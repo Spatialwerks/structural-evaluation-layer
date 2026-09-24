@@ -1,12 +1,17 @@
 # Structural Evaluation Layer (SEL)
 
-The Structural Evaluation Layer (SEL) is a system-independent structural evaluation space for digital content, defined and occupied by the G-SEO Framework.
+The Structural Evaluation Layer (SEL) is a system-independent structural evaluation boundary for digital content.
 
-SEL is a conceptual and descriptive evaluation layer.
+SEL separates the structural characteristics of digital content from the behavior of processing systems, execution environments, and optimization mechanisms.
+
+SEL does not perform evaluation, scoring, processing, or optimization.
 
 SEL is not:
-- operational infrastructure
-- ranking infrastructure
+
+- an operational infrastructure
+- a ranking infrastructure
 - generative system behavior
-- AI processing architecture
-- performance optimization infrastructure
+- an AI processing architecture
+- a performance optimization infrastructure
+
+Evaluation within SEL may be performed by defined evaluation systems operating within the SEL boundary.
