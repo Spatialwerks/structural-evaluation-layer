@@ -1,4 +1,5 @@
 Structural Evaluation Layer (SEL)
-Version: V01
-Status: FROZEN
-Date: May 2026
+Current Status: ACTIVE
+Original Release: V01 — May 2026
+V01 Status: HISTORICAL / FROZEN
+Current Definition: https://g-seo.ai/the-structural-evaluation-layer-sel/
